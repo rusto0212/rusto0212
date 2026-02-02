@@ -257,13 +257,6 @@ I developed Atujii, an engaging AR mobile application that allows users to adopt
 Utilizing Unity for AR experiences and integrating with mobile platforms, I implemented features that enable daily interactions and personalized pet care.
 The app has the potential to expand by introducing new pet characters, enhancing AR capabilities, and integrating educational modules to further engage users.
 
-<h3><u><strong><i>BetFury</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/7.png">
-I developed BetFury, integrating a vast array of casino games, a dynamic sportsbook, and innovative crypto-earning features to create a comprehensive gaming ecosystem.
-I utilized Ethereum and Solana for cross-chain functionality, implemented staking mechanisms, and integrated the BETBY sportsbook API to enhance user engagement.
-The platform is poised for growth through the expansion of its game library, the introduction of new staking options, and the enhancement of its mobile experience to reach a broader audience.
 
 <h3><u><strong><i>PepeArab</i></strong></u></h3>
 <hr />
@@ -343,15 +336,6 @@ The platform has the potential to expand by incorporating additional gameplay mo
 I developed Wooshi World, a dynamic metaverse platform where users can own, trade, and interact with unique Wooshi NFTs, each offering distinct traits and abilities.
 Leveraging Ethereum's blockchain, I implemented smart contracts to ensure secure ownership and transaction of Wooshi NFTs, integrating them seamlessly into the Wooshi World ecosystem.
 The platform has the potential to expand by incorporating additional gameplay features, enhancing user engagement through community events, and integrating with other metaverse platforms for broader interoperability.
-
-<h3><u><strong><i>Rainbet</i></strong></u></h3>
-<hr />
-
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/18.png">
-I developed Rainbet, a blockchain-powered crypto casino and sportsbook offering slots, live games, and secure crypto betting.
-I integrated provably fair algorithms, multi-crypto payment systems, and a high-performance backend for instant transactions.
-Rainbet can grow with AI-driven personalization, expanded game offerings, and enhanced mobile experiences.
-
 
 
 <p align="center">
