@@ -11,7 +11,7 @@ I bring both technical excellence and strategic insight to blockchain projects, 
 <h4>My greatest strength lies in the technology to eradicate the cryptocurrency theft and fraud that have repeatedly occurred within the blockchain ecosystem over the past few years.
 In short, it involves security technology that secures cryptocurrencies before they are stolen, and rollback technology that recovers them once an incident has occurred.
 I have been deepening my research on this for several years and maintain connections with various technical teams.
-Of course, we cannot solve everything.</h4>
+Of course, we cannot solve everything.
 However, we are making an effort and conducting research.</h4>
 
 <br/>
