@@ -6,13 +6,13 @@
 I have a strong track record of building secure, efficient, and scalable blockchain solutions  including decentralized applications (dApps), automated trading bots, and advanced DeFi protocols.</h4>
 
 <h4>With a solid background in 3D web development using Three.js, WebGL, and interactive UX/UI design, I create visually engaging, performance-optimized applications that bridge functionality with immersive design. 
-My full stack experience spans React, Next.js, Node.js, and modern DevOps workflows.</h4>
-<h4>I bring both technical excellence and strategic insight to blockchain projects, ensuring they are production-ready, user-centric, and future-proof.</h4>
-<h4>My greatest strength lies in the technology to eradicate the cryptocurrency theft and fraud that have repeatedly occurred within the blockchain ecosystem over the past few years.</h4>
-<h4>In short, it involves security technology that secures cryptocurrencies before they are stolen, and rollback technology that recovers them once an incident has occurred.</h4>
-<h4>I have been deepening my research on this for several years and maintain connections with various technical teams.</h4>
-<h4>Of course, we cannot solve everything.</h4>
-<h4>However, we are making an effort and conducting research.</h4>
+My full stack experience spans React, Next.js, Node.js, and modern DevOps workflows.
+I bring both technical excellence and strategic insight to blockchain projects, ensuring they are production-ready, user-centric, and future-proof.</h4>
+<h4>My greatest strength lies in the technology to eradicate the cryptocurrency theft and fraud that have repeatedly occurred within the blockchain ecosystem over the past few years.
+In short, it involves security technology that secures cryptocurrencies before they are stolen, and rollback technology that recovers them once an incident has occurred.
+I have been deepening my research on this for several years and maintain connections with various technical teams.
+Of course, we cannot solve everything.</h4>
+However, we are making an effort and conducting research.</h4>
 
 <br/>
 
