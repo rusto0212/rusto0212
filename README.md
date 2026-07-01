@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>💦 Blockchain Security Researcher & Incident Response Specialist | Trading Bot 💦</h2>
+  <h2>💦 Blockchain Security Researcher & Incident Response Specialist | Trading Bot | Hacker | Web💦</h2>
 </div>
 
 <h4>I am a highly skilled software engineer with deep expertise in Web4 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
