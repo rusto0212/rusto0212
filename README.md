@@ -3,10 +3,10 @@
 </div>
 
 <h4>I am a highly skilled software engineer with deep expertise in Web3 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
-I have a strong track record of building secure, efficient, and scalable blockchain solutions  including decentralized applications (dApps), automated trading bots, and advanced DeFi protocols.</h4>
+I have a strong track record of building secure, efficient, and scalable blockchain solutions  including dApps, automated trading bots, and advanced DeFi protocols.</h4>
 
 <h4>My full stack experience spans React, Next.js, Node.js, and modern DevOps workflows.
-I bring both technical excellence and strategic insight to blockchain projects, ensuring they are production-ready, user-centric, and future-proof.</h4>
+I bring both technical excellence and strategic insight to blockchain projects, ensuring they are production-ready, user centric, and future proof.</h4>
 <h4>My greatest strength lies in the technology to eradicate the cryptocurrency theft and fraud that have repeatedly occurred within the blockchain ecosystem over the past few years.
 In short, it involves security technology that secures cryptocurrencies before they are stolen, and rollback technology that recovers them once an incident has occurred.
 I have been deepening my research on this for several years and maintain connections with various technical teams.
