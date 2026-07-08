@@ -2,7 +2,7 @@
   <h2>AI Trading Bot & Web2 Web3 Expert</h2>
 </div>
 
-<h4>I am a highly skilled software engineer with deep expertise in Web3 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
+<h4>I am a highly skilled software engineer with deep expertise in AI Web3 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
 I have a strong track record of building secure, efficient, and scalable blockchain solutions  including dApps, automated trading bots, and advanced DeFi protocols.</h4>
 
 <h4>My full stack experience spans React, Next.js, Node.js, and modern DevOps workflows.
