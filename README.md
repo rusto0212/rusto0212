@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Web3 AI Trading Bot Expert & Full Stack Engineer</h2>
+  <h2>FS Web2 Web3 AI Builder & Trading Bot Expert</h2>
 </div>
 
 <h4>I am a highly skilled software engineer with deep expertise in AI Web3 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
