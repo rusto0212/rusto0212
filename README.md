@@ -1,11 +1,11 @@
 <div align="center">
-  <h2># Full-Stack Blockchain Engineer | AI-Powered Fintech | Security Researcher</h2>
+# Full-Stack Blockchain Engineer | AI-Powered Fintech | Security Researcher
 </div>
 
-<h4>I am a highly skilled software engineer with deep expertise in AI Web3 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
-I have a strong track record of building secure, efficient, and scalable blockchain solutions  including dApps, automated trading bots, and advanced DeFi protocols.</h4>
+I am a highly skilled software engineer with deep expertise in AI Web3 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
+I have a strong track record of building secure, efficient, and scalable blockchain solutions  including dApps, automated trading bots, and advanced DeFi protocols.
 
-<h4> 
+
 **Blockchain Development**  
 Rust (Solana, NEAR) · Solidity (Ethereum) · Smart Contract Security · DeFi Protocols · dApp Architecture
 
@@ -20,13 +20,13 @@ Trading Bots · Predictive Models · Data Pipelines · LLM Integration
 
 ## Blockchain Security & Fraud Prevention
 
-I specialize in **building resilient blockchain systems** that protect users from theft, exploits, and protocol vulnerabilities. My R&D focuses on:
+I specialize in **building resilient blockchain systems** that protect users from theft, exploits, and protocol vulnerabilities. 
 
 - **Proactive Defense**: Pre-theft security layers to safeguard assets
 - **Reactive Recovery**: Rollback and mitigation mechanisms post-incident
 - **Audit & Compliance**: Security-first architecture across smart contracts and off-chain services
 
-I collaborate with engineering teams and security researchers</h4>
+I collaborate with engineering teams and security researchers
 
 <br/>
 
