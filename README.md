@@ -1,5 +1,5 @@
 <div align="center">
-## Full-Stack Blockchain Engineer | AI-Powered Fintech | Security Researcher
+<h2>Full-Stack Blockchain Engineer | AI-Powered Fintech | Security Researcher</h2>
 </div>
 
 <h4>I am a highly skilled software engineer with deep expertise in AI Web3 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
