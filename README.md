@@ -6,7 +6,7 @@
 I have a strong track record of building secure, efficient, and scalable blockchain solutions  including dApps, automated trading bots, and advanced DeFi protocols.</h4>
 
 <h4> 
-**Blockchain Development**  
+Blockchain Development
 Rust (Solana, NEAR) · Solidity (Ethereum) · Smart Contract Security · DeFi Protocols · dApp Architecture
 
 **Full-Stack Engineering**  
