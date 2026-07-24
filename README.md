@@ -5,13 +5,27 @@
 <h4>I am a highly skilled software engineer with deep expertise in AI Web3 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
 I have a strong track record of building secure, efficient, and scalable blockchain solutions  including dApps, automated trading bots, and advanced DeFi protocols.</h4>
 
-<h4>My full stack experience spans React, Next.js, Node.js, and modern DevOps workflows.
-I bring both technical excellence and strategic insight to blockchain projects, ensuring they are production-ready, user centric, and future proof.</h4>
-<h4>My greatest strength lies in the technology to eradicate the cryptocurrency theft and fraud that have repeatedly occurred within the blockchain ecosystem over the past few years.
-In short, it involves security technology that secures cryptocurrencies before they are stolen, and rollback technology that recovers them once an incident has occurred.
-I have been deepening my research on this for several years and maintain connections with various technical teams.
-Of course, we cannot solve everything.
-However, we are making an effort and conducting research.</h4>
+<h4>**Blockchain Development**  
+Rust (Solana, NEAR) · Solidity (Ethereum) · Smart Contract Security · DeFi Protocols · dApp Architecture
+
+**Full-Stack Engineering**  
+React · Next.js · TypeScript · Node.js · GraphQL · Microservices
+
+**DevOps & Infrastructure**  
+Docker · Kubernetes · AWS · CI/CD · Cloud Native Deployments
+
+**AI & Automation**  
+Trading Bots · Predictive Models · Data Pipelines · LLM Integration
+
+## Blockchain Security & Fraud Prevention
+
+I specialize in **building resilient blockchain systems** that protect users from theft, exploits, and protocol vulnerabilities. My R&D focuses on:
+
+- **Proactive Defense**: Pre-theft security layers to safeguard assets
+- **Reactive Recovery**: Rollback and mitigation mechanisms post-incident
+- **Audit & Compliance**: Security-first architecture across smart contracts and off-chain services
+
+I collaborate with engineering teams and security researchers</h4>
 
 <br/>
 
